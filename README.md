@@ -5,9 +5,9 @@
 este proyecto simula una tienda en linea.
 
 ## tecnologías
--html
--css
--javascript
+- html
+- css
+- javascript
 
 ## autor 
 jesús guillermo urías olivas
