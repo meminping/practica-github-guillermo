@@ -1,2 +1,13 @@
 # practica-github-guillermo
-una practica de github que no se hacer
+# proyecto tienda online
+
+##descripción 
+este proyecto simula una tienda en linea.
+
+## tecnologías
+-html
+-css
+-javascript
+
+## autor 
+jesús guillermo urías olivas
